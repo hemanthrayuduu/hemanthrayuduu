@@ -38,7 +38,7 @@ Prof. Bradley Lehman's group — Dept. of Electrical & Computer Engineering, Nor
 
 Supporting an industry-sponsored research collaboration on **utility asset data**: building pipelines for asset condition data, de-identification for research use, and applying LLM-based retrieval and evaluation to power systems datasets.
 
-🎓 &nbsp;**MS, AI Engineering Systems** — Northeastern, Dec 2026<br/>
+🎓 &nbsp;**MS, AI Systems Engineering** — Northeastern, Dec 2026<br/>
 📍 &nbsp;Boston, MA
 
 </td>
@@ -111,20 +111,31 @@ Supporting an industry-sponsored research collaboration on **utility asset data*
 </td>
 </tr>
 <tr>
+<td valign="middle"><b>Vector & Search</b></td>
+<td>
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embedding%20Optimization-4B32C3?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td valign="middle"><b>Cloud & Data Platforms</b></td>
 <td>
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>LLMOps & Evaluation</b></td>
+<td valign="middle"><b>ML & MLOps</b></td>
 <td>
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -132,6 +143,7 @@ Supporting an industry-sponsored research collaboration on **utility asset data*
 ![RAGAS](https://img.shields.io/badge/RAGAS-6E40C9?style=flat-square)
 ![Drift Detection](https://img.shields.io/badge/Drift%20Detection-6E40C9?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -140,7 +152,7 @@ Supporting an industry-sponsored research collaboration on **utility asset data*
 <td>
 
 ![Medallion](https://img.shields.io/badge/Medallion%20Architecture-FF3621?style=flat-square)
-![Entity Resolution](https://img.shields.io/badge/Entity%20Resolution-555555?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-555555?style=flat-square)
 ![k-anonymity](https://img.shields.io/badge/De--identification%20%7C%20k--anonymity-555555?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -152,14 +164,15 @@ Supporting an industry-sponsored research collaboration on **utility asset data*
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
 </tr>
@@ -225,9 +238,9 @@ A study in doing real generative work under hard hardware constraints.
 ## 🎓 &nbsp;Education
 
 **Northeastern University** — Boston, MA<br/>
-*MS, AI Engineering Systems* · <sub>Sep 2024 – Dec 2026 (expected)</sub>
+*Master of Science — AI Systems Engineering concentration* · <sub>Sep 2024 – Dec 2026 (expected)</sub>
 
-<sub>Natural Language Processing · Prompt Engineering and Agentic AI · Knowledge Graphs with GenAI and Databases · Big Data Systems and Intelligence Analytics</sub>
+<sub>Natural Language Processing · Prompt Engineering and Agentic AI · Knowledge Graphs with GenAI and Databases · Big Data Systems</sub>
 
 **Jawaharlal Nehru Technological University** — India<br/>
 *Bachelor of Technology* · <sub>Sep 2016 – Jul 2020</sub>
@@ -237,7 +250,7 @@ A study in doing real generative work under hard hardware constraints.
 
 ## 📜 &nbsp;Certifications
 
-![GH-600](https://img.shields.io/badge/GitHub-Developing%20in%20Agentic%20AI%20Systems%20(GH--600)-181717?style=flat-square&logo=github&logoColor=white)
+![GH-600](https://img.shields.io/badge/GitHub-Agentic%20AI%20Systems%20(GH--600)-181717?style=flat-square&logo=github&logoColor=white)
 
 ![AI-103](https://img.shields.io/badge/Microsoft-Azure%20AI%20Apps%20%26%20Agents%20Associate%20(AI--103)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
