@@ -38,7 +38,7 @@ Prof. Bradley Lehman's group — Dept. of Electrical & Computer Engineering, Nor
 
 Supporting an industry-sponsored research collaboration on **utility asset data**: building pipelines for asset condition data, de-identification for research use, and applying LLM-based retrieval and evaluation to power systems datasets.
 
-🎓 &nbsp;**MS, Information Systems** — Northeastern, Dec 2026<br/>
+🎓 &nbsp;**MS, AI Engineering Systems** — Northeastern, Dec 2026<br/>
 📍 &nbsp;Boston, MA
 
 </td>
@@ -225,7 +225,7 @@ A study in doing real generative work under hard hardware constraints.
 ## 🎓 &nbsp;Education
 
 **Northeastern University** — Boston, MA<br/>
-*MS, Information Systems* · <sub>Sep 2024 – Dec 2026 (expected)</sub>
+*MS, AI Engineering Systems* · <sub>Sep 2024 – Dec 2026 (expected)</sub>
 
 <sub>Natural Language Processing · Prompt Engineering and Agentic AI · Knowledge Graphs with GenAI and Databases · Big Data Systems and Intelligence Analytics</sub>
 
