@@ -45,45 +45,6 @@ Supporting an industry-sponsored research collaboration on **utility asset data*
 </tr>
 </table>
 
-<div align="center">
-
-### 📈 &nbsp;Numbers I'm proud of
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-## 500K+
-**security events / day**<br/>
-<sub>production threat detection</sub>
-
-</td>
-<td align="center" width="25%">
-
-## &lt;100ms
-**inference latency**<br/>
-<sub>at that throughput</sub>
-
-</td>
-<td align="center" width="25%">
-
-## 95%+
-**extraction accuracy**<br/>
-<sub>OCR + schema-driven DGA reports</sub>
-
-</td>
-<td align="center" width="25%">
-
-## 100+
-**reports in &lt;6 min**<br/>
-<sub>was a manual process</sub>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 💼 &nbsp;Experience
