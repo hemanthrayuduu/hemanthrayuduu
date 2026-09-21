@@ -21,7 +21,7 @@ from retrieval and agents down to the data infrastructure underneath.
 
 ### 👋 &nbsp;Who I am
 
-Four years building AI that runs in production, not in notebooks.
+Three-plus years building AI that runs in production, not in notebooks.
 
 I've shipped a threat-detection service scoring **500K security events a day**, a no-code ML platform that customer teams trained their own models on, and a six-layer medallion architecture on Azure Databricks serving controlled academic access to utility asset data.
 
@@ -34,7 +34,7 @@ Lately my work sits where **retrieval, agents, and data engineering** meet — g
 
 **Graduate Research Assistant**<br/>
 Prof. Bradley Lehman's group — Dept. of Electrical & Computer Engineering, Northeastern<br/>
-<sub>Sep 2026 — present</sub>
+<sub>Sep 2026 – present</sub>
 
 Supporting an industry-sponsored research collaboration on **utility asset data**: building pipelines for asset condition data, de-identification for research use, and applying LLM-based retrieval and evaluation to power systems datasets.
 
@@ -263,14 +263,6 @@ A study in doing real generative work under hard hardware constraints.
 <br/>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hemanthrayuduu&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&icon_color=7AA2F7&text_color=A9B1D6"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hemanthrayuduu&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=graywhite&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthrayuduu&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000" alt="Hemanth Rayudu's GitHub stats" width="480"/>
-</picture>
-
-<br/><br/>
 
 ### Let's talk
 
